@@ -1,0 +1,7 @@
+.sliderbg1 {
+    background: url('../../assets/images/slide-1.jpeg');
+    height: 70vh;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: left;
+}
